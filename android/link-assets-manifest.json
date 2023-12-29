@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/OPTIFuturaDemiBold.otf",
+      "sha1": "5bd80b2e17aa64622008cebecf7e1d11576ddeaf"
+    },
+    {
+      "path": "assets/fonts/intreb.ttf",
+      "sha1": "809f871a3ebb6caa34259141727a21ae80e6a4fb"
+    },
+    {
+      "path": "assets/fonts/intrepid.ttf",
+      "sha1": "afc9af066c398f5e7e36d8ceb7c4b1f11647c1aa"
+    }
+  ]
+}
